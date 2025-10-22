@@ -18,3 +18,8 @@ CREATE TABLE ALUNO (
     MEDIA FLOAT
 );
 npm install pg readline-sync
+```
+### Integrantes: 
+Hugo Nascimento Gonçalves RA: 2509669, 
+
+Mateus Ramos Medeiros RA: 2508960,
