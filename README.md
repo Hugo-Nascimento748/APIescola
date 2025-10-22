@@ -23,3 +23,7 @@ npm install pg readline-sync
 Hugo Nascimento Gonçalves RA: 2509669, 
 
 Mateus Ramos Medeiros RA: 2508960,
+
+Alex Sandro Teles Silveira RA: 2510122,
+
+Caio Felipe Martins de Camargo RA: 2522475.
